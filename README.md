@@ -4,11 +4,11 @@ This project is about building the back end for an e-commerce site. This applica
 We’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. This application won’t be deployed so i’ll show a walkthrough video that demonstrates its functionality.
 
 
-Installation
-Dependencies/Packages
+# Installation
+* Dependencies/Packages
 
-Node.js
-Express.js
-MySQL2
-Sequelize
-dotenv
+* Node.js
+* Express.js
+* MySQL2
+* Sequelize
+* dotenv
